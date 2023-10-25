@@ -1,0 +1,22 @@
+{
+	"extends": ["stylelint-config-standard-scss"],
+	"rules": {
+		"block-no-empty": true,
+		"color-hex-length": "short",
+		"color-no-invalid-hex": true,
+		"scss/double-slash-comment-whitespace-inside": null,
+		"no-descending-specificity": null,
+		"scss/at-import-partial-extension": null,
+		"declaration-block-no-duplicate-properties": null,
+		"scss/comment-no-empty": null,
+		"scss/no-global-function-names": null,
+		"selector-id-pattern": null,
+		"selector-class-pattern": null,
+		"scss/dollar-variable-pattern": null,
+		"font-family-name-quotes": null,
+		"scss/no-duplicate-mixins": null,
+		"function-name-case": null,
+		"at-rule-empty-line-before": null,
+		"no-missing-end-of-source-newline": null
+	}
+}

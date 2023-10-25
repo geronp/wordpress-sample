@@ -1,0 +1,16 @@
+/* WordPress Admin Menu Styling */
+#adminmenu div.separator {
+    height: 2px;
+    padding: 0;
+    border-bottom: 1px solid rgba(255,255,255,.25);
+    width: 80%;
+    margin: 5px 0 10px 10px;
+}
+
+.bg-light-blue {
+ background-color: #0597ff;
+}
+
+.text-white {
+    color: #ffffff;
+}
