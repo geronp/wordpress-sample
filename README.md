@@ -1,2 +1,2 @@
-# wordpress-sample
-A sample WordPress theme with backend and frontend code
+# wordpress-theme
+WordPress theme with backend and frontend code
